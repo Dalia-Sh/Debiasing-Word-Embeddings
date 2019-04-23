@@ -6,6 +6,8 @@
 
 (2) Run the code in the jupyter notebook project.ipynb
 
+(3) Project report can be found [here](https://github.com/atabas/DS8008-project/blob/master/Debiasing_word_embeddings_project_report.pdf)
+
 ## Introduction 
 
 In this project, we aim to perform hard gender debiasing on pre-trained GloVe embeddings. For this project, we have chosen the 50-dimensional version of GloVe, which is based on Wik- ipedia 2014 and Gigaword5 and has 400,000 words. 
