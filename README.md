@@ -12,5 +12,5 @@ In this project, we aim to perform hard gender debiasing on pre-trained GloVe em
 
 The method used consists of neutralizing and equalizing gender word pairs in such a way that any
 non-gendered/neutral word is at equal distance to gender word pairs such as she-he.After plotting the extreme she-he occupations, we find that all occupations are at equal distance from the she and he axis. We also find that gender specific words have moved closer to their respective gender axis (corresponding she or he axis). Conclusions. The application of the sug- gested debiasing algorithm demonstrated promising results in terms of debiasing occupational stereotypes.
-
-
+![GloVe Pre_debiasing](https://user-images.githubusercontent.com/1936040/56623079-b0937e00-6600-11e9-9b37-d518f43528f1.png)
+![GloVe Post_debiasing](https://user-images.githubusercontent.com/1936040/56623083-b9844f80-6600-11e9-85b0-9f1b5aec65da.png)
