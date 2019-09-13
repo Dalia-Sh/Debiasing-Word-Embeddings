@@ -1,4 +1,4 @@
-# DS8008-project
+# DS8008-project - Natural Language Processing
 
 ## Instructions:
 
